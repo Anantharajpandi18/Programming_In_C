@@ -1,3 +1,4 @@
+/* use of size of operator */
 #include <stdio.h>
 #include <limits.h>
 int main()
